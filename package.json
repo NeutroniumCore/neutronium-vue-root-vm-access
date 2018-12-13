@@ -1,0 +1,23 @@
+{
+  "name": "neutronium-vue-root-vm-access",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeutroniumCore/neutronium-vue-root-vm-access.git"
+  },
+  "keywords": [
+    "neutronium",
+    "Vue",
+    "plugin"
+  ],
+  "author": "desmaisons_david@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeutroniumCore/neutronium-vue-root-vm-access/issues"
+  },
+  "homepage": "https://github.com/NeutroniumCore/neutronium-vue-root-vm-access#readme"
+}
