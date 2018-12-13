@@ -1,4 +1,4 @@
-<p align="center"><img width="100" src="https://raw.githubusercontent.com/NeutroniumCore/neutronium-vue-root-vm-access/blob/__doc__/logo.png"></p>
+<p align="center"><img width="100" src="https://github.com/NeutroniumCore/neutronium-vue-root-vm-access/raw/master/__doc__/logo.png"></p>
 <h1 align="center">neutronium-vue-root-vm-access</h1>
 
 
