@@ -25,7 +25,6 @@ function vueInstanceOption(vm, Vue) {
   Vue.use(VmAccess, vm);
   ///
 }
-Vue.use
 ```
 
 Then to access root ViewModel in a component use `this.$rootVm`:
